@@ -1,0 +1,232 @@
+/*======== Table ========*/
+
+
+table {
+    /* border: 0.5px solid #f3eeee; */
+    width: 90%;
+    margin: auto;
+    box-shadow: 6px 8px 7px #24232329;
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+table tr {
+    border-radius: 10px;
+
+}
+
+.row1 {
+    font-size: 18px;
+    text-align: center;
+    padding: 20px;
+    border: none;
+    margin-top: 80px;
+}
+
+.row1 td {
+    border: none;
+    padding: 10px 0;
+}
+
+.type {
+    padding: 10px 10px;
+    background-color: #23958fd4;
+    color: white;
+    border: none;
+}
+
+.under {
+    padding: 10px 10px;
+}
+
+.input_submit {
+    margin-left: 74px;
+}
+
+.input_submit a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.form_search {
+    padding: 30px;
+}
+
+
+.notify_success {
+    height: 40px;
+    width: 35%;
+    background-color: #40b52be0;
+    color: #fff;
+    line-height: 40px;
+    padding-left: 14px;
+    border-radius: 3px;
+}
+
+.input_one {
+    height: 30px;
+    width: 200px;
+    border: 1px solid #40b52be0;
+    padding-left: 10px;
+    border-radius: 4px;
+    outline: none;
+}
+
+
+
+.input_second {
+    height: 40px;
+    width: 80%;
+    border: none;
+    background-color: transparent;
+    border: 1px solid #40b52be0;
+    margin-left: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+    border-radius: 4px;
+    outline: none;
+}
+
+
+.input_third {
+    height: 40px;
+    width: 80%;
+    font-size: 18px;
+    border: none;
+    background-color: transparent;
+    border: 1px solid #40b52be0;
+    margin: 10px 100px;
+    padding-left: 10px;
+    border-radius: 4px;
+    outline: none;
+}
+
+.input_search-form {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #40b52be0;
+    margin: 0px 100px;
+    padding: 0 10px;
+    border-radius: 3px;
+
+}
+
+.input_search-price {
+    height: 40px;
+    width: 40%;
+    font-size: 18px;
+    border: none;
+    background-color: transparent;
+    border: 1px solid #40b52be0;
+    margin: 15px 20px;
+    padding-left: 10px;
+    border-radius: 4px;
+    outline: none;
+}
+
+
+.form_title {
+    font-size: 32px;
+    color: #23958fd4;
+    text-align: center;
+    margin: 40px;
+    font-weight: 700;
+}
+
+.form_label {
+    font-size: 20px;
+    color: #000;
+    margin: 10px 34px;
+    font-style: italic;
+}
+
+.thaotac {
+    width: 120px;
+}
+
+
+/*Slideshow*/
+
+.slideShoww {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px;
+    margin-top: 20%;
+    border-radius: 4px;
+}
+
+.mySlides {
+    display: none
+}
+
+.input_search-form {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #ccc;
+    margin: 0px 100px;
+    padding: 0 10px;
+    border-radius: 3px;
+    position: relative;
+}
+
+.input_search-price {
+    height: 40px;
+    width: 40%;
+    font-size: 18px;
+    border: none;
+    background-color: transparent;
+    border: 1px solid #40b52be0;
+    margin: 30px 20px 15px;
+    padding-left: 10px;
+    border-radius: 4px;
+    outline: none;
+}
+
+/*========= Thong bao loc gia========*/
+.notify {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.notify_min {
+    color: #d94141;
+    position: absolute;
+    top: 62%;
+    border: 1px solid $ccc;
+    left: 260px;
+    display: block;
+    border: 1px solid #ccc;
+    background: #8cc3eb;
+    border-radius: 4px;
+    padding: 1px 6px;
+}
+
+.notify_max {
+    color: #d94141;
+    position: absolute;
+    top: 62%;
+    border: 1px solid $ccc;
+    left: 260px;
+    display: block;
+    border: 1px solid #ccc;
+    background: #8cc3eb;
+    border-radius: 4px;
+    padding: 1px 6px;
+}
+
+
+.time1 {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    padding: 10px;
+    /*margin-top: 20px;*/
+    margin: 20px auto;
+}
